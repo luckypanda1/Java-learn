@@ -8,4 +8,7 @@ public class HelloData {
 		System.out.println(new Date());
 	}
 
-}
+}/* Output:
+Hello, it's:
+Wed Jun 19 18:14:49 CST 2019
+*///
